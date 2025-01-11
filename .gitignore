@@ -1,0 +1,24 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment folders
+venv/
+.env/
+
+# Data files (if they are large or don't need versioning)
+data/
+
+# Model files (to avoid pushing large models to GitHub)
+models/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific files (for example, PyCharm or VSCode)
+.vscode/
+.idea/
+
+# Other common unwanted files
+.DS_Store
+
