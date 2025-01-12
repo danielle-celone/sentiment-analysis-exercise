@@ -1,2 +1,5 @@
 # sentiment-analysis-exercise
 The purpose of this exercise was to gain some general understanding of the process of fine-tuning a transformer model like BERT. I gained an understanding of how to use HuggingFace models and PyTorch, and got a handle on a more complex implementation of the classic sentiment analysis task. I wanted to incorporate some syntactic parsing into the implementation, so I used the SST-2 treebank with NLTK. I can't take full credit for this implementation, as I used an LLM to guide my work. Nonetheless, I think this was a great way to learn about some intimidating topics, and I plan to do more exercises like this in the future.
+
+Here are some articles I read along the way:
+https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c
